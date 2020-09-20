@@ -1,0 +1,24 @@
+﻿  file.cpp
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(19): warning C4101: 'str2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(18): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(126): warning C4101: 'list' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(853): warning C4101: 'temp_end' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(1848): warning C4101: 'tmp2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2041): warning C4101: 'tmp_date' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2034): warning C4101: 'str2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2040): warning C4101: 'tmp_building' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2042): warning C4101: 'tmp_hosil' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2254): warning C4101: 's_id_tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2251): warning C4101: 'str2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2371): warning C4101: 's_id_tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2368): warning C4101: 'str2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2440): warning C4101: 's_id_tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2437): warning C4101: 'str2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2595): warning C4101: 'end_t' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2582): warning C4101: 'tmp_list_time' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2594): warning C4101: 'start_t' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2682): warning C4101: 'str2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2722): warning C4101: 'temp_end' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2721): warning C4101: 'temp_start' :참조되지 않은 지역 변수입니다.
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\jeongipeu\file.cpp(2720): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  jeongipeu.vcxproj -> C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\1차 구현\수금반 8조 1차 구현\x64\Debug\FantasticKcube.exe

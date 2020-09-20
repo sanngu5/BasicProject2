@@ -1,0 +1,3 @@
+﻿  filter.cpp
+C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\jeongipeu\jeongipeu\filter.cpp(114): warning C4715: 'check_reservation_input_type': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  jeongipeu.vcxproj -> C:\Users\s_dsa523\Desktop\konkuk\2학기\전기프2\jeongipeu\Debug\jeongipeu.exe
